@@ -1,0 +1,25 @@
+{
+  "name": "online-school_bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./style.scss: style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnezhanaPashovska/Online-school_Bootstrap.git"
+  },
+  "author": "SP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnezhanaPashovska/Online-school_Bootstrap/issues"
+  },
+  "homepage": "https://github.com/SnezhanaPashovska/Online-school_Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1",
+    "sass": "^1.55.0"
+  }
+}
